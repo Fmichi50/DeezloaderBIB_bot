@@ -193,6 +193,7 @@ class DW:
 			track_quality, self.__chat_id
 		)
 
+
 		self.__upload_audio(file_id)
 
 	def __download_track(self, url):
